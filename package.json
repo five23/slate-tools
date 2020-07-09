@@ -1,13 +1,13 @@
 {
-  "name": "@we-make-websites/slate-tools",
-  "version": "1.0.0-beta.28",
-  "description": "A slate-tools fork to continue active development",
+  "name": "@five23/slate-tools",
+  "version": "1.0.0-beta.29",
+  "description": "A fork of a fork of Shopify's slate-tools",
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.org/we-make-websites/frame-tools/src/master/"
+    "url": "https://github.com/five23/slate-tools"
   },
   "license": "MIT",
-  "author": "Shopify + We Make Websites",
+  "author": "Shopify",
   "bin": {
     "slate-tools": "./cli/index.js"
   },
@@ -59,7 +59,7 @@
     "jest": "22.4.2",
     "mini-css-extract-plugin": "^0.4.3",
     "minimatch": "^3.0.4",
-    "minimist": "1.2.0",
+    "minimist": "^1.2.5",
     "node-sass": "^4.11.0",
     "ora": "^2.0.0",
     "portscanner": "^2.2.0",
