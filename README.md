@@ -1,3 +1,17 @@
+EDIT: Don't use me, I'm abandoned!
+
+Check out some of these other Slate forks instead ->
+
+* https://github.com/hayes0724/shopify-packer
+* https://github.com/entozoon/slatest
+* https://github.com/CocoaWebStudio/slate
+* https://github.com/hayes0724/shopify-packer
+* https://github.com/Process-Creative/Slate
+* https://github.com/3daddict/themekit-webpack
+* https://github.com/feruzfauzi/shopify-webpack-themekit
+* https://github.com/the-couch/slater
+* https://github.com/davidwarrington/theme-packer (<-- Webpack v5, docs!)
+
 # Shopify Slate Tools
 
 Shopify's defunct Slate tools occasionally updated w/ some security patches
